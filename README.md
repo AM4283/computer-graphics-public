@@ -1,9 +1,9 @@
 # computer-graphics-public
-Public view of the computer-graphics repo: My implementation of projects done as part of CS 377 Computer Graphics at UMass
+Public view of the computer-graphics repo: My implementation of projects done as part of CS 373 Computer Graphics at UMass
 
 ### **If you would like to see the code implementation, please get in touch with me with the methods outlined on my resume, or use the provided links on my resume. I cannot distribute this code publicly due to academic honesty guidelines**
 
-The private repo contains code for my implementation of 6 JavaScript computer graphics projects done as part of CS 377 Computer Graphics during the Spring of 2024 @ UMass. 
+The private repo contains code for my implementation of 6 JavaScript computer graphics projects done as part of CS 373 Computer Graphics during the Spring of 2024 @ UMass. 
 
 **Project 1 Scene Creation**:
 Showcases a basic object scene in which a model is loaded into the scene, and can be cycled through a list of models. Raycasting is used to add support for rotating the camera in 3D space to inspect different angles of the object.
